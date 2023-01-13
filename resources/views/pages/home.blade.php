@@ -15,11 +15,11 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-8">
-                                    <p
-                                        class="d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
-                                        Welcome to Finanza</p>
-                                    <h1 class="display-1 mb-4 animated slideInDown">Your Financial Status Is Our Goal
-                                    </h1>
+                                    <h1
+                                        class="d-inline-block text-primary fw-semi-bold py-1 px-3 animated slideInDown">PT Paguntaka Cahaya Nusantara</h1>
+                                    <h5 class="mb-4 animated slideInDown">Menjadi Perusahaan Penyedia Jasa Tenaga Kerja Bidang
+Ketenaga Listrikan Dan Jasa Lainnya Yang Terpercaya Di Indonesia
+                                    </h5>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Explore More</a>
                                 </div>
                             </div>
@@ -32,10 +32,9 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <p
-                                        class="d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
-                                        Welcome to Finanza</p>
-                                    <h1 class="display-1 mb-4 animated slideInDown">True Financial Support For You</h1>
+                                    <h1
+                                        class="d-inline-block text-primary fw-semi-bold py-1 px-3 animated slideInDown">PT Paguntaka Cahaya Nusantara</h1>
+                                    <h5 class="mb-4 animated slideInDown">Jasa Yang Tepat Untuk Kebutuhan Tenaga Kerja</h5>
                                     <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Explore More</a>
                                 </div>
                             </div>
